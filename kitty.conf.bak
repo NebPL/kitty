@@ -1,0 +1,16 @@
+# vim:fileencoding=utf-8:foldmethod=marker
+
+
+font_family      FiraCode Nerd Font
+font_size        20.0
+
+#background_image /Users/ben/Documents/AlleOrdner/Bilder/Wallpaper/felix-friedlein-20230910153041-1.jpg
+
+map cmd+f launch --type=overlay zsh -ic fcd
+
+
+
+# BEGIN_KITTY_THEME
+# Rosé Pine Moon
+include current-theme.conf
+# END_KITTY_THEME
